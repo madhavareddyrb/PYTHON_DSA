@@ -1,2 +1,4 @@
 PYTHON_DSA NOTES/
 dsavenv/
+.vscode/
+.ipynb_checkpoints/
